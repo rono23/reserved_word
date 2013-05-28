@@ -33,8 +33,6 @@ ReservedWord.your_words.include?("foo") #=> true
 
 # model
 validates :nickname, exclusion: { in: ReservedWord.your_words }
-
-
 ```
 
 ## Contributing
