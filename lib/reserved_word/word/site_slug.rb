@@ -1,6 +1,7 @@
 ReservedWord::Word::SITE_SLUG = %w(
   about
   access
+  admin
   android
   api
   apps
@@ -28,6 +29,7 @@ ReservedWord::Word::SITE_SLUG = %w(
   feed
   feedback
   founder
+  help
   home
   info
   information
